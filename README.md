@@ -16,23 +16,23 @@ The independent variables are both continuous and categorical in nature.
 
 The dataset contains a unique identifier for each candidate.
 
-ID : A unique ID to identify a candidate
+**ID** : A unique ID to identify a candidate
 
-Salary: Annual CTC oﬀered to the candidate (in INR)
+**Salary**: Annual CTC oﬀered to the candidate (in INR)
 
-DOJ: Date of joining the company
+**DOJ**: Date of joining the company
 
-DOL: Date of leaving the company
+**DOL**: Date of leaving the company
 
-Designation: Designation oﬀered in the job
+**Designation**: Designation oﬀered in the job
 
-JobCity: Location of the job (city)
+**JobCity**: Location of the job (city)
 
-Gender: Candidate’s gender
+**Gender**: Candidate’s gender
 
-DOB: Date of birth of candidate
+**DOB**: Date of birth of candidate
 
-10percentage: Overall marks obtained in grade 10 examinations
+**10percentage**: Overall marks obtained in grade 10 examinations
 
 10board: The school board whose curriculum the candidate followed in grade 10
 
